@@ -1,4 +1,4 @@
-**How Machine Learning Helps Farmers the Best Crop**
+**Case Study: How Machine Learning Helps Farmers the Best Crop?**
 
 
 Farmers have various options when it comes to deciding which crop to plant each season. Their primary objective is to maximize the yield of their crops, taking into account different factors. One crucial factor that affects crop growth is the condition of the soil in the field. So lets assess measuring basic elements such as nitrogen and potassium levels. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
